@@ -6,7 +6,7 @@ const Body = Matter.Body;
 var ground, engine, world,dustbin,paper,binImg,bin;
 function preload()
 {
-	binImg = loadImage("sprites/dustbin.png")
+	binImg = loadImage("dustbin.png")
 }
 
 function setup() 
